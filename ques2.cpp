@@ -9,7 +9,7 @@ void swap(signed int &num1,signed  int &num2){
 	num2=temp;
 }
 
-//----------------------------------FINDING THE PIVIOT ELEMENT----------------------------------------------------------
+//----------------------------------FINDING THE PIVIOT ELEMENT---------------------------------------------------------
 
 int partition(signed int array[10],int low,int sizee){
 int i=low-1;
